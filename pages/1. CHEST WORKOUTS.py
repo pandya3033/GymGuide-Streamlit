@@ -12,7 +12,7 @@ st.markdown(
     <style>
     
     .stApp {
-            background-image: url('https://png.pngtree.com/background/20230610/original/pngtree-the-gym-scene-where-people-are-sitting-in-a-gym-picture-image_3108802.jpg');
+            background-image: url('https://images.pexels.com/photos/7289250/pexels-photo-7289250.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
             background-size: cover;
             background-repeat: no-repeat;
             font-family: 'Helvetica', sans-serif;
